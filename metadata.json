@@ -1,0 +1,6 @@
+{
+  "name": "Diba Bazaar - Multi-Store Clothing Marketplace",
+  "description": "An elegant full-stack multi-vendor clothing and fabric marketplace featuring 20 unique boutiques, real-time inventory management, unified shopping cart, and premium Persian typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
